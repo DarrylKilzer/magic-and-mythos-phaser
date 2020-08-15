@@ -1,4 +1,4 @@
-import ValuesController from "./Controllers/ValuesController.js";
+import ValuesController from "./controllers/ValuesController.js";
 import { AuthController } from "./auth/AuthController.js";
 import { launch } from "../game/game.js";
 class App {
